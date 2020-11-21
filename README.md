@@ -1,0 +1,1 @@
+INFO-DIÁK Iskolaszövetkezet diákjai számára egy alkalmazás, ahol műszakokra tudnak jelentkezni a diákok. A diák leadhatja a heti ráérését, és a munkáltató számára, ez alapján készítem el a heti beosztásokat.
